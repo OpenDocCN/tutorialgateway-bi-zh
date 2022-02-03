@@ -134,7 +134,7 @@
 +   [在 Tableau 中添加总计](134.md)
 +   [如何在 Tableau 中连接数据](135.md)
 +   [Tableau 数据混合](136.md)
-+   [Tableau 报告](137.md)
++   [Tableau 表格报告](137.md)
 +   [Tableau 交叉报告](138.md)
 +   [Tableau 注解](139.md)
 +   [Tableau 中的层次结构](140.md)
